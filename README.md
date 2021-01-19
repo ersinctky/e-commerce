@@ -1,2 +1,2 @@
-# e-ticaret
-Basit bir e-ticaret uygulaması
+# e-commerce
+a simple e-commerce app
